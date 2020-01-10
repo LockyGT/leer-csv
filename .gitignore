@@ -1,0 +1,42 @@
+#Compiled class file
+*.class
+
+#Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+#Package Files #
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+*.application.properties
+.attach_*
+
+#virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/.project
+/.metadata/
+
+#target files
+
+*.project
+*.settings/
+*/target/**
+*.classpath
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.attach_pid*
+.mvn/*
+
+api/bin/\.classpath
+
+usecases/bin/
+
